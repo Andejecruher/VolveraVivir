@@ -1,0 +1,157 @@
+.about-text{
+    text-align: center;
+    padding: 25px;
+}
+.carousel-item > img {
+    width: 100%;
+}
+.carrousel-edit{
+    padding: 100px 0 50px 0px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+.category > a {
+    color: #000;
+    text-align: center;
+}
+.contact-section{
+    margin-top: 5%;
+}
+.contact-address > .fa{
+    font-size: 2em;
+    text-align: center;
+}
+.contact-address{
+    text-align: center;
+}
+.contact-phone > .fa{
+    font-size: 2em;
+    text-align: center;
+}
+.contact-phone{
+    text-align: center;
+}
+.contact-email > .fa{
+    font-size: 2em;
+    text-align: center;
+}
+.contact-email{
+    text-align: center;
+}
+.about-slogan{
+    top: 50%;
+}
+div .about-slogan{
+    background-color:#ffffff ;
+    opacity: 0.6;
+}
+div.about-slogan h2{
+    color: #000;
+    font-weight: bold;
+    text-shadow: 6px 6px 6px gray;
+}
+div .content-slogan{
+    background-color:#ffffff ;
+    opacity: 0.6;
+}
+div.content-slogan h2{
+    color: #000;
+    font-weight: bold;
+    text-shadow: 6px 6px 6px gray;
+}
+div .info-history{
+    padding: 30px;
+    background-color:#ffffff ;
+    bottom: 35%;
+    opacity: 0.6;
+}
+div.info-history h3{
+    color: #1b1b1b;
+    font-weight: bold;
+    text-shadow: 6px 6px 6px gray;
+}
+div .content-install{
+    padding: 30px;
+    background-color:#ffffff ;
+    bottom: 35%;
+    opacity: 0.8;
+}
+div .content-install h1{
+    color: #1b1b1b;
+    font-weight: bold;
+    text-shadow: 6px 6px 6px gray;
+}
+.justify{
+    text-align: justify;
+}
+#hero-about{
+    padding: 100px 0;
+}
+#hero-installation{
+    padding: 50px 0;
+}
+.info-history{
+    text-align: center;
+}
+.logoVivir{
+    float: left;
+}
+.list-group-item{
+    background-color: #fafafa;
+    border-bottom: 1px solid rgba(0,0,0,.125);  
+    font-size: 1em;
+}
+.menu{
+    width: 100%;
+}
+.newsletter{
+    padding: 20px;
+}
+section.featured-posts .image img {
+    height: 100%;
+    width: 100%;
+}
+.text-logo{
+    float: right;
+}
+.text-logo{
+    color: #000;
+    font-size: 0.8em;
+    font-weight: bold;
+    width: 55%;   
+}
+#nav-menu{
+    top: 5%;
+}
+.service-img{
+    width: 100%;
+}
+#contact{
+    margin-top: 10%;
+}
+.featured-posts{
+    margin-top: 5% ;
+}
+#topbar{
+    position: fixed;
+}
+.btn-env{
+    margin-top: -3%;
+}
+
+@media (max-width: 720px) {
+    #topbar{
+        height: 50px;
+    }
+    #topbar .contact-info i{
+        margin-left: 0%;
+    }
+    #nav-menu{
+        top: 8%;
+    }
+    #res-top{
+        margin-left: 0%;
+    }
+  }
